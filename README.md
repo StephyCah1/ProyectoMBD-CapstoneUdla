@@ -2,6 +2,8 @@
 Este proyecto forma parte de una tesis de maestria en Negocios y Análisis de Datos que busca principalmente analizar, modelar y predecir el número de accidentes de tránsito en Ecuador, empleando datos trimestrales de los años 2022-2024
 El proyecto tiene como objeto desarollar un modelo de predicción que permita anticipar la siniestralidad en Ecuador, apoyando a la toma de decisiones generenciales en temas de seguridad y planificación pública. De este modo, el codigo cuenta con las siguientes partes: 
 # Carga de datos y limpieza
+- Se debe cargar los archivos por trimestre de cada año desde el 2022-2024
+- Correr el archivo accidentes.py para hacer la revisión de todos los procesos posteriores
 - Estandarización de provincias y variables categóricas
 - Conversión de fechas y creación de diccionarios de referencias para estandarización
 # Análisis exploratorio

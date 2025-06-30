@@ -25,6 +25,6 @@ Stephanie Cahueñas
 Maestría en Negocios y Análisis de Datos - Universidad de las Américas
 Año: 2025
 # Referencias Principales
-Castillo, D., Coral, C., Salazar Méndez, Y., Castillo, D., Coral, C., & Salazar Méndez, Y. (2020). Modelización Econométrica de los Accidentes de Tránsito en el Ecuador. Revista Politécnica, 46(2), 21–28. https://doi.org/10.33333/RP.VOL46N2.02
-INEC. (2025). Siniestros de tránsito trimestral |. https://www.ecuadorencifras.gob.ec/siniestros-transito-trimestral/
-Otros artículos incluídos en el documento de tesis
+- Castillo, D., Coral, C., Salazar Méndez, Y., Castillo, D., Coral, C., & Salazar Méndez, Y. (2020). Modelización Econométrica de los Accidentes de Tránsito en el Ecuador. Revista Politécnica, 46(2), 21–28. https://doi.org/10.33333/RP.VOL46N2.02
+- INEC. (2025). Siniestros de tránsito trimestral |. https://www.ecuadorencifras.gob.ec/siniestros-transito-trimestral/
+- Otros artículos incluídos en el documento de tesis
